@@ -1,0 +1,11 @@
+Day 1 & 2
+1. First add Material app because we start with MyApp. We can use other App also. Container will show error.
+2. Add COntainer with Text in it
+3. Refactor Container with Material
+4. Refactor Text with Center
+5. use variable to add variable value in the Text widget
+6. create home_page.dart file and copy the entire MaterialApp section in it
+7. replace Material with Scaffold
+8. replace container with body
+9. Scafold will support appbar, body and drwaer to create head, body and footer as considerration with HTML  
+10. import HomePage in main.dart file
