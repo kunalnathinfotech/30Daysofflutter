@@ -9,3 +9,19 @@ Day 1 & 2
 8. replace container with body
 9. Scafold will support appbar, body and drwaer to create head, body and footer as considerration with HTML  
 10. import HomePage in main.dart file
+
+Day 3
+
+1. create Pages folder inside lib folder and move home_page.dart into it
+2. use primarySwatch insdie ThemeData to adjust colour according to selection of of colour
+ theme: ThemeData(primarySwatch: Colors.red),
+
+3. to create route 
+    return MaterialApp(
+      //home: HomePage(),
+      theme: ThemeData(primarySwatch: Colors.red),
+      routes: {
+        "/": (context) => HomePage(),
+        "loginpage": (context) => LoginPage()
+      },
+    );
