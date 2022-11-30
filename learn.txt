@@ -25,3 +25,10 @@ Day 3
         "loginpage": (context) => LoginPage()
       },
     );
+
+
+dAY 4
+
+1. Image Add, boxfit cover
+2. Google font
+3. sized box fro padding between two elemnt
