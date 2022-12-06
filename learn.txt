@@ -32,3 +32,4 @@ dAY 4
 1. Image Add, boxfit cover
 2. Google font
 3. sized box fro padding between two elemnt
+4.  obscureText: true, to use in password field
